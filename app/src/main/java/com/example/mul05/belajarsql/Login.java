@@ -43,7 +43,7 @@ public class Login extends AppCompatActivity {
                     startActivity(i);
                     finish();
                 }else{
-                    Toast.makeText(Login.this, "Password admin (MR)", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Login.this, "Password ini admin ", Toast.LENGTH_SHORT).show();
                 }
 
             }

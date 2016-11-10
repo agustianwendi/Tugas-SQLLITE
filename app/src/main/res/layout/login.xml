@@ -58,7 +58,7 @@
     <ImageView
         android:layout_width="300px"
         android:layout_height="300px"
-        app:srcCompat="@drawable/pas"
+        app:srcCompat="@drawable/pt"
         android:id="@+id/imageView2"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
